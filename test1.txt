@@ -1,0 +1,5 @@
+This is a test for adding files
+
+This is an edit - was shown as modified by git but when staged was shown as new file instead of as modified
+
+This is a second edit
